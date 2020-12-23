@@ -1,0 +1,92 @@
+
+
+body {
+      
+    font-family:  Arial, Helvetica, sans-serif;
+    background-color: #f3f7f7;
+    
+}
+
+
+
+.sidebar {
+    display: block;
+    float: left;
+    margin: 100px;
+}
+
+.card {
+    display: block;
+    float: none;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 214px;
+    width: 850px;
+    
+    box-shadow: rgba(0, 0, 0, 0.1);
+}
+.profile_img img {
+border-radius: 10px;
+  background-color: black;
+  height: 150px;
+  width: 150px;
+}
+
+
+.badges {
+    
+        display: block;
+        float: none;
+        margin-top: 50px;
+        margin-left: auto;
+        margin-right: auto;
+        height: 214px;
+        width: 850px;
+        border: 5px solid gray;
+    
+}
+
+.work_experience {
+    display: block;
+    float: none;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 214px;
+    width: 850px;
+    border: 5px solid gray;
+}
+
+.education {
+    display: block;
+    float: none;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 214px;
+    width: 850px;
+    border: 5px solid gray;
+}
+
+.submissions {
+    display: block;
+    float: none;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 214px;
+    width: 850px;
+    border: 5px solid gray;
+}
+
+.contact {
+    display: block;
+    float: none;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 214px;
+    width: 850px;
+    border: 5px solid gray;
+}
